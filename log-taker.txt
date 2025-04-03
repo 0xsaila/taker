@@ -2714,3 +2714,15 @@
 4/2/2025 | 8:14:28 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:14:32 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:14:32 PM | ERROR | Failed to retrieve nonce for wallet: 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45 
+4/3/2025 | 1:02:34 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:02:34 AM | INFO | Start process for wallet 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45 
+4/3/2025 | 1:02:35 AM | INFO | Trying To Login for wallet: 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45 
+4/3/2025 | 1:02:36 AM | INFO | Login successful... 
+4/3/2025 | 1:02:36 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:02:36 AM | INFO | User ID: 103223146 | Twitter: @mysailaa | Total Points: 1008000 
+4/3/2025 | 1:02:36 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:02:37 AM | INFO | Last mining time: 4/1/2025, 12:26:45 PM
+4/3/2025 | 1:02:37 AM | INFO | Trying to start Mining for wallet: 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45 
+4/3/2025 | 1:02:37 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 1:02:37 AM | INFO | Trying to activate mining on-chain for wallet: 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45 
+4/3/2025 | 1:02:47 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x08044e551aeb28e8a3ed87112be1aa71f5c3a03ad45bda13dfde54d5ae49d885 
