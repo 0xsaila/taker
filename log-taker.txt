@@ -3776,3 +3776,12 @@
 4/21/2025 | 8:18:23 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/21/2025 | 8:18:23 AM | INFO | Trying to activate mining on-chain for wallet: 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45 
 4/21/2025 | 8:18:28 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x1f12cf0c1ba1d3d077d3877da03b1e235c3e20aa631ebd8220b8e2b49e546e1f 
+4/21/2025 | 12:25:15 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/21/2025 | 12:25:15 PM | INFO | Start process for wallet 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45 
+4/21/2025 | 12:25:16 PM | INFO | Trying To Login for wallet: 0xEf5878b86336Fe18588B00aDddaDB4de6Cb3EB45 
+4/21/2025 | 12:25:17 PM | INFO | Login successful... 
+4/21/2025 | 12:25:17 PM | INFO | Trying to check user info... 
+4/21/2025 | 12:25:17 PM | INFO | User ID: 103223146 | Twitter: @mysailaa | Total Points: 1416000 
+4/21/2025 | 12:25:17 PM | INFO | Trying to check user miner status... 
+4/21/2025 | 12:25:18 PM | INFO | Last mining time: 4/21/2025, 8:18:27 AM
+4/21/2025 | 12:25:18 PM | WARN | Mining already started, next mining time is: 4/22/2025, 8:18:27 AM
